@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "javac $file_name && java $file_base_name && rm -rf $file_base_name.class",
+    "file_regex": "^ *\\[javac\\] (.+):([0-9]+):() (.*)$",
+    "selector": "source.java"
+}
