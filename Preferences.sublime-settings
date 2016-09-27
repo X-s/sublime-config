@@ -4,6 +4,7 @@
 
     //字体
     "font_size": 16,
+    //"font_face": "YaHei Consolas Hybrid",
 
     //显示所有空格字符
     "draw_white_space": "all",
